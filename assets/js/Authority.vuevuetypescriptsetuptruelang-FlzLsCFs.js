@@ -1,0 +1,1 @@
+import{b as s}from"./index-C0b3zp8b.js";import"./celerisComponents-DDKyWJ2G.js";import{d as e,u as r,A as t,a9 as a}from"./vue-EUX_yFNd.js";const o=e({__name:"Authority",props:{value:{type:[Number,Array,String],default:""}},setup(e){const{hasPermission:o}=s();return(s,u)=>r(o)(e.value)?t(s.$slots,"default",{key:0}):a("",!0)}});export{o as _};

@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-BCo6x5W8.js";import{R as e,S as s,A as l}from"./vue-EUX_yFNd.js";const o={class:"page-wrapper rounded-2xl w-full h-full min-h-full"};const t=r({},[["render",function(r,t){return e(),s("div",o,[l(r.$slots,"default")])}]]);export{t as P};
